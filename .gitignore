@@ -1,0 +1,30 @@
+# Python 过滤
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+*.log
+
+# Java 过滤
+*.class
+target/
+build/
+.idea/
+*.iml
+
+# C语言 编译产物过滤
+*.o
+*.exe
+*.out
+*.obj
+bin/
+*.dll
+*.so
+
+# 通用IDE、系统垃圾文件
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
